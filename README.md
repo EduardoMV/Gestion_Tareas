@@ -3,8 +3,11 @@ Un programa hecho en Node.JS con framework RESTful apoyado de Express que obtien
 
 ## Ruta de Postman de GET
 http://localhost:'PORT'/tareas/
+
 http://localhost:'PORT'/tareas/usuarios/:id
+
 http://localhost:'PORT'/tareas/:Responsable
+
 http://localhost:'PORT'/tareas/id/:id
 
 ## Ruta de Postman de POST
