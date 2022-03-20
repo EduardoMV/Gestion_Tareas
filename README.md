@@ -16,9 +16,13 @@ http://localhost:'PORT'/tareas/crear
 
 ## Ruta de Postman de PUT
 http://localhost:'PORT'/tareas/Titulo/:id
+
 http://localhost:'PORT'/tareas/Descripcion/:id
+
 http://localhost:'PORT'/tareas/Estatus/:id
+
 http://localhost:'PORT'/tareas/Fecha/:id
+
 http://localhost:'PORT'/tareas/Comentarios/:id
 
 ## Ruta de Postman DELETE
