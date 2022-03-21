@@ -1,3 +1,5 @@
+//Este archivo es para validar la obtención correcta de los datos (En este caso específico que los datos ingresados en Postman sean correctos)
+
 function createTaskValidation(data){
     const {titulo, descripcion, estatusCompletado, fechaEntrega, comentarios, responsable, tags} = data;
 
